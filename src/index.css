@@ -907,6 +907,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   border: 2px solid #f82249;
+  text-decoration: none;
 }
 
 #intro .about-btn:hover {
